@@ -1,0 +1,23 @@
+{
+  "name": "minecraft-icons-downloader",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AluminiumTN",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "axios-cookiejar-support": "^5.0.5",
+    "cheerio": "^1.0.0",
+    "fs-extra": "^11.3.0",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7",
+    "puppeteer": "^24.1.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "tough-cookie": "^5.1.0"
+  }
+}
